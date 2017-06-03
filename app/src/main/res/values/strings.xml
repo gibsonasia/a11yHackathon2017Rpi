@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rasberrypi</string>
+    <string name="good_button">GOOD JOB!!</string>
+    <string name="red_button">NOT GOOD!!</string>
+    <string name="blue_button">COOL DOWN</string>
+
+</resources>

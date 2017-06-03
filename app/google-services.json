@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "60633819910",
+    "firebase_url": "https://rasberrypi-a83f5.firebaseio.com",
+    "project_id": "rasberrypi-a83f5",
+    "storage_bucket": "rasberrypi-a83f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60633819910:android:d22265c4005bb6d2",
+        "android_client_info": {
+          "package_name": "com.example.asiagibson.rasberrypi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60633819910-9hkl85qrgfksm7i2kg67doll8ogda9v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asiagibson.rasberrypi",
+            "certificate_hash": "c756ac0dddec427a5c466c46db1c82d5419d54ce"
+          }
+        },
+        {
+          "client_id": "60633819910-bvl3s8kt4ft5iiqrq0adt8fu62iouuu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChv38S8zfF7AiI0DWqxdwVL6Pk6Du-vsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60633819910-bvl3s8kt4ft5iiqrq0adt8fu62iouuu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
