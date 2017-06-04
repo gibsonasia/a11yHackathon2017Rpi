@@ -15,7 +15,7 @@
   limitations under the License.
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.androidthings.myproject">
+    package="a11yhack2017.nerdynarwhals.rpi.rpiapp">
 
     <application
         android:allowBackup="true"
